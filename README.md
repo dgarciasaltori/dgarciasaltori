@@ -16,7 +16,9 @@
 </div>
   
   ##
- 
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgarciasaltori" alt="dgarciasaltori" /></a> </p>
+
 <div> 
   <a href="https://www.linkedin.com/in/dgarciasaltori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/@diego.saltori" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
