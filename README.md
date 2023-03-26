@@ -71,11 +71,11 @@
 
 ## ☃️ **MY LEARNING RESOURCES**
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Udemy" height="30" width="40" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
-  <img align="center" alt="Diego-Github" height="30" width="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Diego-Stack_Overflow" height="30" width="40" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img align="center" alt="Diego-YouTube" height="30" width="40" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  <img align="center" alt="Diego-Google" height="30" width="40" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img align="center" alt="Diego-Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+  <img align="center" alt="Diego-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Diego-Stack_Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <img align="center" alt="Diego-YouTube" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  <img align="center" alt="Diego-Google" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </div>
 
 ## 📱 **CONTACT**
