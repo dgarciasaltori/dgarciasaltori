@@ -9,26 +9,30 @@
 
   ![Snake animation](https://github.com/dgarciasaltori/dgarciasaltori/blob/output/github-contribution-grid-snake.svg)
 </div>
- 
-  ##
+
 ## 🏆 GitHub Trophies
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgarciasaltori" alt="dgarciasaltori" /></a> </p>
 
 
 ## ⚙️ **BACKEND DEV**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diego-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Diego-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
  </div>
 
-## 🛠️ **TEST TOOLS** (in learning)
+## 🛠️ **TEST TOOLS**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Diego-Pytest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
   <img align="center" alt="Diego-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg">
 </div>
+
 ## 🕸️ **WEB DEV**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -36,6 +40,7 @@
 </div>
 
 ## 📅 **DATABASES** (in learning)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-SQLite3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Diego-SQLAlchemy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
@@ -45,12 +50,14 @@
 </div>
 
 ## 🍧 **DESIGN TOOLS**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Diego-Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
 </div>
 
 ## 🛠️ **DEVOPS TOOLS** (in learning)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Diego-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
@@ -58,6 +65,7 @@
 </div>
 
 ## ☁️ **CLOUDS** (in learning)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Diego-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
@@ -65,11 +73,13 @@
 </div>
 
 ## 📄 **CODE EDITOR & IDES**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
 </div>
 
 ## ☃️ **MY LEARNING RESOURCES**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
   <img align="center" alt="Diego-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
