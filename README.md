@@ -18,64 +18,64 @@
 ## ⚙️ **BACKEND DEV**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Diego-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Diego-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
+  <img align="center" alt="Diego-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Diego-Flask" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Diego-Anaconda" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
  </div>
 
 ## 🛠️ **TEST TOOLS**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Diego-Pytest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
-  <img align="center" alt="Diego-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg">
+  <img align="center" alt="Diego-Selenium" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Diego-Pytest" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
+  <img align="center" alt="Diego-Cucumber" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg">
 </div>
 
 ## 🕸️ **WEB DEV**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Diego-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Diego-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Diego-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ## 📅 **DATABASES** (in learning)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-SQLite3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Diego-SQLAlchemy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
-  <img align="center" alt="Diego-MicrosoftSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Diego-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Diego-Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Diego-SQLite3" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Diego-SQLAlchemy" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
+  <img align="center" alt="Diego-MicrosoftSQL" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Diego-MySQL" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Diego-Mongodb" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
 
 ## 🍧 **DESIGN TOOLS**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Diego-Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  <img align="center" alt="Diego-Photoshop" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Diego-Canva" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
 </div>
 
 ## 🛠️ **DEVOPS TOOLS** (in learning)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Diego-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Diego-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Diego-Github" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Diego-Git" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Diego-Linux" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
 
 ## ☁️ **CLOUDS** (in learning)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="Diego-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Diego-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg>
+  <img align="center" alt="Diego-Azure" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="Diego-AWS" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Diego-Heroku" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg>
 </div>
 
 ## 📄 **CODE EDITOR & IDES**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Diego-VSCode" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
 </div>
 
 ## ☃️ **MY LEARNING RESOURCES**
