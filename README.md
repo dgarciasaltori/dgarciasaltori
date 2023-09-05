@@ -2,7 +2,7 @@
 
 - 🔭 Work as a Quality Assurance Analyst
 <div style="display: inline_block"><br>
-  <a href="https://www.credly.com/badges/695a8467-83f3-43be-b0d5-d8a9ac6c1f4b/public_url" target="_blank"><img align="center" alt="Diego-Python" height="60" width="80" src="/img/istqb-ctfl.png">
+  <a href="https://www.credly.com/badges/695a8467-83f3-43be-b0d5-d8a9ac6c1f4b/public_url" target="_blank"><img align="center" alt="Diego-Python" height="100" width="100" src="/img/istqb-ctfl.png" target="_blank">
  </div>
 
 - 🌱 I'm studying to become a developer
