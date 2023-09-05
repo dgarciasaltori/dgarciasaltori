@@ -1,7 +1,9 @@
 ### Hi! I'm Diego.
 
 - 🔭 Work as a Quality Assurance Analyst
-<img data-iframe-width="150" data-iframe-height="270" data-share-badge-id="695a8467-83f3-43be-b0d5-d8a9ac6c1f4b" data-share-badge-host="https://www.credly.com""/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Diego-Python" height="60" width="80" src="/img/istqb-certified-tester-foundation-level-ctfl (1).png">
+ </div>
 
 - 🌱 I'm studying to become a developer
  <div>
