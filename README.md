@@ -74,6 +74,7 @@
   <img align="center" alt="Diego-Azure" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Diego-AWS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Diego-Heroku" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg>
+
 </div>
 
 ## 📄 **CODE EDITOR & IDES**
