@@ -1,17 +1,16 @@
 ### Hi! I'm Diego.
 
 - 🔭 Work as a Quality Assurance Analyst
-<div style="display: inline_block"><br>
-  <a href="https://www.credly.com/badges/695a8467-83f3-43be-b0d5-d8a9ac6c1f4b/public_url" target="_blank"><img align="center" alt="Diego-Python" height="100" width="100" src="/img/istqb-ctfl.png" target="_blank">
+<div style="display: center"><br>
+  <a href="https://www.credly.com/badges/695a8467-83f3-43be-b0d5-d8a9ac6c1f4b/public_url" target="_blank"><img align="center" alt="Diego-CTFL" height="100" width="100" src="/img/istqb-ctfl.png" target="_blank">
 </div>
 
-
+<br>
  <div>
   <a href="https://github.com/dgarciasaltori">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=dgarciasaltori&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgarciasaltori&layout=compact&langs_count=16&theme=dark"/>
 
-  ![Snake animation](https://github.com/dgarciasaltori/dgarciasaltori/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## 🏆 GitHub Trophies
