@@ -1,7 +1,8 @@
 ### Hi! I'm Diego.
 
 - 🔭 Work as a Quality Assurance Analyst
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="695a8467-83f3-43be-b0d5-d8a9ac6c1f4b" data-share-badge-host="https://www.credly.com"></div>
+<img data-iframe-width="150" data-iframe-height="270" data-share-badge-id="695a8467-83f3-43be-b0d5-d8a9ac6c1f4b" data-share-badge-host="https://www.credly.com""/>
+
 - 🌱 I'm studying to become a developer
  <div>
   <a href="https://github.com/dgarciasaltori">
