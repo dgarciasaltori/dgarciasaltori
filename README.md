@@ -27,6 +27,13 @@
   <img align="center" alt="Diego-Cucumber" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg">
 </div>
 
+## 📄 **CODE EDITOR & IDES**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Diego-VSCode" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+</div>
+
+
 ## ⚙️ **BACKEND DEV**
 
 <div style="display: inline_block"><br>
@@ -77,11 +84,6 @@
 
 </div>
 
-## 📄 **CODE EDITOR & IDES**
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Diego-VSCode" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
-</div>
 
 ## ☃️ **MY LEARNING RESOURCES**
 
