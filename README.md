@@ -3,9 +3,9 @@
 - 🔭 Work as a Quality Assurance Analyst
 <div style="display: inline_block"><br>
   <a href="https://www.credly.com/badges/695a8467-83f3-43be-b0d5-d8a9ac6c1f4b/public_url" target="_blank"><img align="center" alt="Diego-Python" height="100" width="100" src="/img/istqb-ctfl.png" target="_blank">
- </div>
+</div>
 
-- 🌱 I'm studying to become a developer
+
  <div>
   <a href="https://github.com/dgarciasaltori">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=dgarciasaltori&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,6 +18,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgarciasaltori" alt="dgarciasaltori" /></a> </p>
 
+## 🛠️ **TEST TOOLS**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Diego-Cypress" height="60" width="80" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round-flat.svg">
+  <img align="center" alt="Diego-Selenium" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Diego-Pytest" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
+  <img align="center" alt="Diego-Cucumber" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg">
+</div>
 
 ## ⚙️ **BACKEND DEV**
 
@@ -26,14 +34,6 @@
   <img align="center" alt="Diego-Flask" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Diego-Anaconda" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
  </div>
-
-## 🛠️ **TEST TOOLS**
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Selenium" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Diego-Pytest" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
-  <img align="center" alt="Diego-Cucumber" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg">
-</div>
 
 ## 🕸️ **WEB DEV**
 
